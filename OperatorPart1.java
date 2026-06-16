@@ -1,4 +1,4 @@
-public class OperatorPart1{
+ public class OperatorPart1{
 	public static void main (String[] args){
 		//Assignmnt Operator(=)
 		int age = 21;
@@ -34,7 +34,7 @@ public class OperatorPart1{
 		System.out.printf("The value of num1 has been updated to %d%n",num1);
 		
 		num1 /= num2;
-		System.out.printf("The valueof num1has been updated to %d%n",num1);
+		System.out.printf("The valueof num1 has been updated to %d%n",num1);
 		
 		num1 %= num2;
 		System.out.printf("The value of num1 has been updated to %d%n",num1);
